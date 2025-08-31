@@ -35,10 +35,10 @@ Select the template that matches your current need from the appropriate category
 
 ### 2. Customize Placeholders  
 Replace bracketed placeholders with your specific content:
-- `[COMPANY_NAME]` → Your organization name
-- `[PRODUCT_NAME]` → Your product or service name
+- `Mastercard` → Your organization name
+- `Debit` → Your product or service name
 - `[STAKEHOLDER_NAME]` → Actual stakeholder names
-- `[TEAM_NAME]` → Your team or department name
+- `Global Debit` → Your team or department name
 
 ### 3. Adapt Structure
 Modify sections to fit your organization:

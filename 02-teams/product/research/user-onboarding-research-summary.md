@@ -28,7 +28,7 @@
 - Users cite "couldn't figure out how to get value" as primary churn reason
 
 ### Research Questions
-1. **Job Context**: What job are new users trying to complete when they first use [PRODUCT_NAME]?
+1. **Job Context**: What job are new users trying to complete when they first use Debit?
 2. **Onboarding Experience**: What happens during their first session that determines success/failure?  
 3. **Success Criteria**: How do successful users differ from those who churn immediately?
 4. **Opportunity Identification**: What changes would enable more users to achieve first success?

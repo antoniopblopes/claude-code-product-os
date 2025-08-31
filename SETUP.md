@@ -74,10 +74,10 @@ mv 02-teams/team-gamma 02-teams/retention
 
 **Find and replace these throughout the system:**
 
-- `[COMPANY_NAME]` → Your company name
-- `[PRODUCT_NAME]` → Your main product  
+- `Mastercard` → Your company name
+- `Debit` → Your main product  
 - `[STAKEHOLDER_NAME]` → Actual stakeholder names
-- `[TEAM_NAME]` → Your team names
+- `Global Debit` → Your team names
 - `[DOMAIN_AREA]` → Your industry/domain
 
 **Quick replacement command:**

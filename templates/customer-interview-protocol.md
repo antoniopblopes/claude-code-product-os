@@ -18,7 +18,7 @@
 - [ ] Note-taking template prepared
 
 ### Opening Script
-*"Thank you for taking time to speak with me today. I'm [YOUR_NAME] from [COMPANY_NAME], and I'm working on understanding how [CUSTOMER_TYPE] approaches [PROBLEM_AREA]. Your insights will help us build better solutions for people like you.*
+*"Thank you for taking time to speak with me today. I'm [YOUR_NAME] from Mastercard, and I'm working on understanding how [CUSTOMER_TYPE] approaches [PROBLEM_AREA]. Your insights will help us build better solutions for people like you.*
 
 *I'd love to record this conversation for note-taking purposes - is that okay with you? Nothing will be shared outside our product team, and we can stop recording anytime.*
 
@@ -209,7 +209,7 @@ For each step in the customer's process:
 ## Customization Notes
 
 **Replace these placeholders with your specifics**:
-- `[COMPANY_NAME]` → Your organization name  
+- `Mastercard` → Your organization name  
 - `[CUSTOMER_TYPE]` → Your target user segment
 - `[PROBLEM_AREA]` → The domain you're investigating
 - `[CORE_JOB_BEING_STUDIED]` → The main job customers hire your product to do
